@@ -1,1 +1,1 @@
-# -VIDEO-Interpreting-Data-with-Statistical-Models
+#-Interpreting-Data-with-Statistical-Models
